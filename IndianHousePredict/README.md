@@ -42,6 +42,13 @@ A complete, production-ready web application for predicting Indian house prices 
 └── README.md              # This file
 ```
 
+## ScreenShots 
+<img Src="IndianHousePredict/Screenshot (79).png" width="600"/>
+<img Src="IndianHousePredict/Screenshot (80).png" width="600"/>
+<img Src="IndianHousePredict/Screenshot (81).png" width="600"/>
+
+
+
 ## Quick Start
 
 ### 1. Install Dependencies
