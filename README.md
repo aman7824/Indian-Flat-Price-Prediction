@@ -43,9 +43,9 @@ A complete, production-ready web application for predicting Indian house prices 
 ```
 
 ## ScreenShots 
-<img Src="Screenshot (79).png" width="600"/>
-<img Src="Screenshot (80).png" width="600"/>
-<img Src="Screenshot (81).png" width="600"/>
+<img Src="IndianHousePredict/Screenshot (79).png" width="600"/>
+<img Src="IndianHousePredict/Screenshot (80).png" width="600"/>
+<img Src="IndianHousePredict/Screenshot (81).png" width="600"/>
 
 
 
